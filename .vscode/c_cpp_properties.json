@@ -1,0 +1,53 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/liuboyuu/git-nrs/omnihex/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/eigen_checks/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/loco_planner/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_control_rw/mav_control_interface/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_control_rw/mav_disturbance_observer/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_control_rw/mav_linear_mpc/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/mav_local_planner/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_control_rw/mav_lowlevel_attitude_controller/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_comm/mav_msgs/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_control_rw/mav_nonlinear_mpc/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/mav_path_smoothing/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/mav_planning_benchmark/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/mav_planning_common/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_comm/mav_planning_msgs/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/mav_planning_rviz/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_trajectory_generation/mav_trajectory_generation/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_trajectory_generation/mav_trajectory_generation_example/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_trajectory_generation/mav_trajectory_generation_ros/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/mav_trajectory_generation/mav_visualization/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/minkindr/minkindr/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/minkindr_ros/minkindr_conversions/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/nlopt/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/numpy_eigen/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/PLANNER/planning_algo/quadrotor_msgs/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/rotors_simulator/rotors_control/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/rotors_simulator/rotors_gazebo_plugins/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/rotors_simulator/rotors_hil_interface/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/rotors_simulator/rotors_joy_interface/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/voxblox/voxblox/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/voxblox_ground_truth/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/voxblox_loco_planner/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/voxblox_planning_common/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/voxblox/voxblox_ros/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/voxblox_rrt_planner/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/dependecies/voxblox/voxblox_rviz_plugin/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/voxblox_skeleton/include/**",
+        "/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/SLAM/mav_voxblox_planning/voxblox_skeleton_planner/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS"
+    }
+  ],
+  "version": 4
+}
