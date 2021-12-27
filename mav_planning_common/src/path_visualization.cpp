@@ -11,7 +11,7 @@ visualization_msgs::Marker createMarkerForPath(
 
   const int kMaxSamples = 1000;
   const int num_samples = path.size();
-  int subsample = 10;
+  int subsample = 100;
   while (num_samples / subsample > kMaxSamples) {
     subsample *= 10;
   }
