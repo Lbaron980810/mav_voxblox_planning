@@ -1,7 +1,8 @@
 <launch>
   <arg name="project" default="voxblox_rrt_planner" />
-  <!-- <arg name="voxblox_path" default="../../../../maps/vxblx_file/padding5_vxsz02_1209.tsdf" /> -->
-  <arg name="voxblox_path" default="/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/maps/vxblx_file/padding5_vxsz02_1209.tsdf" />
+  <!-- <arg name="voxblox_path" default="../../../../maps/padding5_vxsz02.tsdf" /> -->
+  <arg name="voxblox_path" default="/home/liuboyuu/git-nrs/omnihex/src/Omni-hex/maps/padding5_vxsz02.tsdf" />
+  <!-- <arg name="voxblox_path" default="/home/liuboyuu/padding5_vxsz02.tsdf" /> -->
   <arg name="frame_id" default="map" />
 
   <node name="voxblox_rrt_planner" pkg="voxblox_rrt_planner" type="voxblox_rrt_planner_node" output="screen">
